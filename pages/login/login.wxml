@@ -1,0 +1,4 @@
+<view>
+   <input></input>
+   <button class="login-btn">登陆</button>
+</view>
